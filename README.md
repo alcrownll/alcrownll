@@ -9,8 +9,8 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
-<div align="center"><h3 id="stats">Introduction</h3> </div>
-<img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="340" hspace="5"/>
+<div align="center"><h2 id="stats">Introduction</h2> </div>
+<img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="350" hspace="5"/>
 
 <p align="justify">
 Hi, I'm Phoebe. I turn messy, real-world problems into software that actually works: full-stack apps, AI/RAG systems, and automations that skip the busywork. I like owning a project from the first architecture decision through what happens after it ships.
@@ -24,7 +24,7 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
-<div align="center"><h3 id="stack">Tech Stack</h3> </div>
+<div align="center"><h2 id="stack">Tech Stack</h2> </div>
 
 <table align="center">
 <tr>
@@ -41,7 +41,7 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
-<div align="center"><h3 id="stats">GitHub Activity</h3></div>
+<div align="center"><h2 id="stats">GitHub Activity</h2></div>
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
-<div align="center"><h3 id="snake">Contribution Graph</h3></div>
+<div align="center"><h2 id="snake">Contribution Graph</h2></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/alcrownll/alcrownll/output/github-contribution-grid-snake.svg" width="100%"/>
