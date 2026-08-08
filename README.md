@@ -9,7 +9,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
-<div align="center"><h3 id="stats">About Me</h3> </div>
+<div align="center"><h3 id="stats">Introduction</h3> </div>
 <img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="350" hspace="5"/>
 
 <p align="justify">
