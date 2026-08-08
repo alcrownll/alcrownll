@@ -8,8 +8,8 @@
 <a href="https://linkedin.com/in/goddess-phoebe-valdehuesa-2a71a1380"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logoColor=white" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=3" width="100%"/>
-<h3 id="stats">About</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
+<div align="center"><h3 id="stats">About Me</h3> </div>
 <img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="350" hspace="5"/>
 
 <p align="justify">
@@ -22,9 +22,9 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 
 <br clear="left"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
-<h3 id="stack">Tech Stack</h3>
+<div align="center"><h3 id="stack">Tech Stack</h3> </div>
 
 <table align="center">
 <tr>
@@ -39,9 +39,9 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
-<h3 id="stats">GitHub Activity</h3>
+<div align="center"><h3 id="stats">GitHub Activity</h3></div>
 
 <div align="center">
 
@@ -50,9 +50,9 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
-<h3 id="snake">Contribution Graph</h3>
+<div align="center"><h3 id="snake">Contribution Graph</h3></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/alcrownll/alcrownll/output/github-contribution-grid-snake.svg" width="100%"/>
