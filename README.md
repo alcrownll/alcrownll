@@ -14,12 +14,11 @@
 
 <p align="justify">
 Hi, I'm Phoebe. I turn messy, real-world problems into software that actually works: full-stack apps, AI/RAG systems, and automations that skip the busywork. I like owning a project from the first architecture decision through what happens after it ships.
+</p>
 
 &nbsp;&nbsp;&nbsp;❖ **End-to-end ownership**: architecture to deployment<br/>
 &nbsp;&nbsp;&nbsp;❖ **Production-ready AI**: fine-tune and validate models<br/>
 &nbsp;&nbsp;&nbsp;❖ **Team Player**: project management experience<br/>
-</p>
-
 
 <br clear="left"/>
 
