@@ -58,8 +58,6 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 <img src="https://raw.githubusercontent.com/alcrownll/alcrownll/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-<sub>Animated snake eating your contribution graph, see setup note below.</sub>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" width="100%"/>
