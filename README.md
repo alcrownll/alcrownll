@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=3" width="100%"/>
 <h3 id="stats">About</h3>
-<img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="400" hspace="5"/>
+<img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="350" hspace="5"/>
 
 <p align="justify">
 Hi, I'm Phoebe. I turn messy, real-world problems into software that actually works: full-stack apps, AI/RAG systems, and automations that skip the busywork. I like owning a project from the first architecture decision through what happens after it ships.
