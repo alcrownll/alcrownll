@@ -84,7 +84,7 @@ def build_badge_row(counts):
             continue  # skip categories with no tagged repos yet
         badge_url = (
             f"https://img.shields.io/badge/{label}-{count}-{color}"
-            f"?style=flat&logo={logo}&logoColor=white"
+            f"?style=for-the-badge&logo={logo}&logoColor=white"
         )
         # Links to a GitHub search filtered to this user's repos
         # carrying this exact topic.
