@@ -24,8 +24,25 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 
 <br clear="left"/>
 
-<!-- PROJECT-BADGES:START -->
+<!--
+  PROJECT PORTFOLIO TAG GUIDE (for future me)
+  Add one of these topics to a repo's "About" settings to have it
+  counted in the badge row below. A repo can carry more than one
+  tag if it genuinely spans categories.
 
+  Tag                     | Use on
+  ------------------------|--------------------------------------------
+  portfolio-webapp        | UnifIDE, AllianceMarkUP, vibecompiler
+  portfolio-ai-rag        | Gala-AI, RAG-Powered-Content-Generation-Pipeline
+  portfolio-automation    | Notion-Client-Onboarding-CRM, RAG-Powered-Content-Generation-Pipeline
+  portfolio-desktop       | Skyfilx
+  portfolio-mobile        | (none yet — future use)
+  portfolio-games         | (none yet — future use)
+
+  Badges auto-update daily via .github/workflows/update-project-badges.yml
+  Categories with 0 tagged repos are skipped automatically.
+-->
+<!-- PROJECT-BADGES:START -->
 <!-- PROJECT-BADGES:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
