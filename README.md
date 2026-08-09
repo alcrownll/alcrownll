@@ -25,12 +25,7 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 <br clear="left"/>
 
 <!-- PROJECT-BADGES:START -->
-<div align="center">
-<img src="https://img.shields.io/badge/Web_Apps-3-3B82F6?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FRAG_Systems-2-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automations-2-6D28D9?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desktop_Apps-1-A78BFA?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
+
 <!-- PROJECT-BADGES:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
