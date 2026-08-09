@@ -68,11 +68,19 @@ def build_badge_row(counts):
         count = counts[topic]
         if count < 1:
             continue  # skip categories with no tagged repos yet
-        url = (
+        badge_url = (
             f"https://img.shields.io/badge/{label}-{count}-{color}"
             f"?style=for-the-badge&logo={logo}&logoColor=white"
         )
-        badges.append(f'<img src="{url}"/>')
+        # Links to a GitHub search filtered to this user's repos
+        # carrying this exact topic.
+        search_url = (
+            f"https://github.com/search?q=user%3A{GITHUB_USER}"
+            f"+topic%3A{topic}&type=repositories"
+        )
+        badges.append(
+            f'<a href="{search_url}"><img src="{badge_url}"/></a>'
+        )
 
     if not badges:
         return ""  # nothing tagged yet at all
