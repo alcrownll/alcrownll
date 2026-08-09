@@ -1,0 +1,37 @@
+name: Update Project Badges
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # runs daily at 06:00 UTC — adjust as you like
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update badge row in README.md
+        env:
+          GITHUB_USER: alcrownll
+          PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
+        run: python scripts/update_project_badges.py
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update project badge counts"
+          git push
