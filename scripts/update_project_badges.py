@@ -1,3 +1,17 @@
+"""
+Fetches all repos owned by GITHUB_USER (including private ones, using
+PROFILE_PAT), counts how many have each "portfolio-*" topic, builds a
+row of shields.io badges (skipping any category with 0 repos), and
+writes that row into README.md between the marker comments:
+
+  <!-- PROJECT-BADGES:START -->
+  ...badges go here...
+  <!-- PROJECT-BADGES:END -->
+
+To add a new project category later, just add a new entry to
+CATEGORIES below and start tagging repos with its topic.
+"""
+
 import os
 import re
 import requests
@@ -70,7 +84,7 @@ def build_badge_row(counts):
             continue  # skip categories with no tagged repos yet
         badge_url = (
             f"https://img.shields.io/badge/{label}-{count}-{color}"
-            f"?style=for-the-badge&logo={logo}&logoColor=white"
+            f"?style=flat&logo={logo}&logoColor=white"
         )
         # Links to a GitHub search filtered to this user's repos
         # carrying this exact topic.
