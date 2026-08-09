@@ -1,7 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=190&section=header&text=Goddess%20Phoebe%20Valdehuesa&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FRAG%20Systems%20%C2%B7%20Automation&descAlignY=54&descSize=16&descColor=E5E7EB" width="100%"/>
 </div>
+
 <div align="center">
 <a href="https://phval-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:goddessphoebevaldehuesa@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logoColor=white" /></a>
@@ -9,7 +9,9 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
+
 <div align="center"><h2 id="stats">Introduction</h2> </div>
+
 <img align="left" src="https://lanyard.cnrad.dev/api/763822608956784680?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px" width="350" hspace="5"/>
 
 <p align="justify">
@@ -21,6 +23,15 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 &nbsp;&nbsp;&nbsp;❖ **Team Player**: project management experience<br/>
 
 <br clear="left"/>
+
+<!-- PROJECT-BADGES:START -->
+<div align="center">
+<img src="https://img.shields.io/badge/Web_Apps-3-3B82F6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FRAG_Systems-2-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automations-2-6D28D9?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desktop_Apps-1-A78BFA?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
+<!-- PROJECT-BADGES:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
 
@@ -44,10 +55,8 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 <div align="center"><h2 id="stats">GitHub Activity</h2></div>
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats-alpha-nine-zlw6po830r.vercel.app/api/top-langs/?username=alcrownll&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=8B5CF6&text_color=1f2328"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alcrownll&theme=default&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1D5DB,100:9CA3AF&height=2" width="100%"/>
@@ -59,7 +68,5 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" width="100%"/>
-
 </div>
