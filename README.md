@@ -45,7 +45,7 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 <!-- PROJECT-BADGES:START -->
 <div align="center">
 <a href="https://github.com/search?q=user%3Aalcrownll+topic%3Aportfolio-webapp&type=repositories"><img src="https://img.shields.io/badge/Web_Apps-4-3B82F6?style=for-the-badge&logo=react&logoColor=white"/></a>
-<a href="https://github.com/search?q=user%3Aalcrownll+topic%3Aportfolio-ai-rag&type=repositories"><img src="https://img.shields.io/badge/AI%2FRAG_Systems-3-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<a href="https://github.com/search?q=user%3Aalcrownll+topic%3Aportfolio-ai-rag&type=repositories"><img src="https://img.shields.io/badge/AI%2FRAG_Systems-4-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://github.com/search?q=user%3Aalcrownll+topic%3Aportfolio-automation&type=repositories"><img src="https://img.shields.io/badge/Automations-2-6D28D9?style=for-the-badge&logo=n8n&logoColor=white"/></a>
 <a href="https://github.com/search?q=user%3Aalcrownll+topic%3Aportfolio-desktop&type=repositories"><img src="https://img.shields.io/badge/Desktop_Apps-1-A78BFA?style=for-the-badge&logo=windows&logoColor=white"/></a>
 </div>
