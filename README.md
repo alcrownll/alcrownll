@@ -81,7 +81,7 @@ Hi, I'm Phoebe. I turn messy, real-world problems into software that actually wo
 <img height="100" src="https://streak-stats.demolab.com/?user=alcrownll&theme=default&hide_border=true&background=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
 </td>
 <td align="center" valign="middle">
-<img height="230" src="https://leetcard.jacoblin.cool/alcrownll?theme=light&extension=activity&border=0&radius=0&hide=ranking"/>
+<img height="230" src="https://leetcard.jacoblin.cool/alcrownll?theme=light&extension=activity&border=0&radius=0"/>
 </td>
 </tr>
 </table>
